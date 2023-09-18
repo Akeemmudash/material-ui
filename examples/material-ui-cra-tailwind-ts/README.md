@@ -1,9 +1,9 @@
 # Material UI - CRA example with Tailwind CSS in TypeScript
 
 ## How to use
-
+```bash
 Download the example [or clone the repo](https://github.com/mui/material-ui):
-
+```
 <!-- #default-branch-switch -->
 
 ```bash
